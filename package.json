@@ -1,0 +1,26 @@
+{
+    "name": "blockchings",
+    "version": "1.0.0",
+    "description": "bks is your area ICO",
+    "main": "trffles.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "dev": "lite-server"
+    },
+    "author": "BlockChings",
+    "license": "BlockChings",
+    "devDependencies": {
+        "lite-server": "^2.3.0"
+    },
+    "dependencies": {
+        "@truffle/hdwallet-provider": "^1.4.0",
+        "brew": "^0.0.8",
+        "geth": "^0.4.0",
+        "jquery": "^3.6.0",
+        "pkg": "^5.2.1",
+        "pkg-install": "^1.0.0",
+        "truffle-hdwallet-provider": "^1.0.17"
+    }
+}
